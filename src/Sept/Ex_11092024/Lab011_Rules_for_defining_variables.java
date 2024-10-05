@@ -23,6 +23,7 @@ public class Lab011_Rules_for_defining_variables {
        boolean _123= true;
        boolean $abc= true;
         System.out.println(_123);
+        System.out.println();
 
         }
 }
