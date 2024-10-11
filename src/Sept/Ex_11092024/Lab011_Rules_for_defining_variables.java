@@ -1,5 +1,5 @@
 package Sept.Ex_11092024;
-
+//primitive Datatype--> Boolean DataType
 public class Lab011_Rules_for_defining_variables {
     public static void main(String[] args) {
         //identifier(Variables) can contain alphabets, digits and 2 special symbols i.e $(dollar) and _(underscore)
