@@ -1,4 +1,4 @@
-package Sept.Ex_11092024;
+package Sept.Ex_11092024_primitiveDataTypes_Numeric;
 //primitive Datatype--> Boolean DataType
 public class Lab011_Rules_for_defining_variables {
     public static void main(String[] args) {

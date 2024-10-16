@@ -1,9 +1,11 @@
-package Sept.Ex_11092024;
+package Sept.Ex_11092024_primitiveDataTypes_Numeric;
 
 public class Lab012_Numeric_DataTypes {
     public static void main(String[] args) {
 //        Primitive Data Types-->Numeric DataTypes
-//        types of Numeric Datatype
+        //Numeric Datatypes further divided into integral and floating data types
+        //Integrals= int, char, long, Byte, short, long
+
         //Byte- 8 bits
         //it stores 8 bits of data (0-127)
         byte b= 127;
@@ -19,6 +21,7 @@ public class Lab012_Numeric_DataTypes {
 
         //long - 64 bits- 8 Bytes(for this datatype we need to add L or l at the end of the value)
         long phone_No= 12345678901L;
+//Numeric DataTypes->Floating DataTypes
 
         //float- 32 bits- 4 Bytes
         float Pi= 3.14f;

@@ -1,4 +1,4 @@
-package Sept.Ex_09092024;
+package Sept.Ex_09092024_primitiveDataTypes_boolean;
 
 public class Lab009 {
     public static void main(String[] args) {
